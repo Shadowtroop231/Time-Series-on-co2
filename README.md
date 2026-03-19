@@ -1,0 +1,1 @@
+This project was done in RStudio. It mainly involves looking at Time Series with regard to co2 emissions. The co2 data is from the library within RStudio. Its data is limited to 1959-1997, but I used prophet to predict the emissions for 10 years later.
